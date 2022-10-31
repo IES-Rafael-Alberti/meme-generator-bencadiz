@@ -8,7 +8,7 @@ La actividad consiste en crear un sistema de creación de memes para una comunid
 3. Cada usuario tendrá una lista de memes personalizados
 4. Los memes podrán ser generados a través de:
 	- Peticiones usando [cUrl](https://www.php.net/manual/es/book.curl.php) a una API externa: [imgflip.com](https://imgflip.com/api) 
-5. Los usuarios podrán añadir y borrar memes  
+5. Los usuarios podrán añadir y borrar memes  eeeee
 
 #### Entrega:
 La entrega será a través del pull request de este repositorio.  
